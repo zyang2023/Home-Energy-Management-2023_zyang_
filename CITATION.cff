@@ -1,1 +1,9 @@
-CITATION.cff
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yang"
+  given-names: "Zejun"
+title: "Home-Energy-Management-2023"
+version: 1.0.0
+date-released: 2023-01-16
+url: "https://github.com/zyang2023/Home-Energy-Management-2023_zyang_"
